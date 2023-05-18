@@ -3,13 +3,14 @@
 .main{
 		width: 200px;
 	background-color: purple;
+	border-left-width: 5px;
 }
 #heading{
 	color: white;
 	font-size: 20px;
 	border: solid purple;
 	border-left-color: green;
-	border-left-width: 5px;
+	
 }
 *{
 	padding: 10px;
