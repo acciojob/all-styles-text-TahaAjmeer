@@ -3,13 +3,14 @@
 .main{
 		width: 200px;
 	background-color: rgb(128,0,128);
+		border: solid rgb(128,0,128);
+	border-left-color: rgb(0,128,0);
 	border-left-width: 5px;
 	}
 #heading{
 	color: white;
 	font-size: 20px;
-	border: solid rgb(128,0,128);
-	border-left-color: rgb(0,128,0);
+
 	
 }
 *{
